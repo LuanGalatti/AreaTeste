@@ -30,7 +30,6 @@ public class Retangulo {
         return base;
     }
 
-    //Operacao que precisa ser testada
     public double getArea() {
         return ((getBase() * getAltura()));
     }
