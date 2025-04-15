@@ -12,6 +12,7 @@ public class TrianguloTest {
         double result = instance.getArea();
         assertEquals(expResult, result, 0);
     }
+
     @Test
     public void testGetArea() {
         Triangulo instance = new Triangulo(3.0, 2.0);
