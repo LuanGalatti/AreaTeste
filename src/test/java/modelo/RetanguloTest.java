@@ -13,6 +13,7 @@ public class RetanguloTest {
         assertEquals(expResult, result, 0);
     }
 
+    @Test
     public void testGetArea() {
         Retangulo instance = new Retangulo(3.0, 2.0);
         double expResult = 6.0;
