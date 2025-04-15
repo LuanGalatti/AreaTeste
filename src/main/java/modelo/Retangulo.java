@@ -29,8 +29,8 @@ public class Retangulo {
     public double getBase() {
         return base;
     }
-//Operacao que precisa ser testada
 
+    //Operacao que precisa ser testada
     public double getArea() {
         return ((getBase() * getAltura()));
     }

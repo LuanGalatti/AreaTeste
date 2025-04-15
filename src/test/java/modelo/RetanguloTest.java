@@ -19,5 +19,4 @@ public class RetanguloTest {
         double result = instance.getArea();
         assertEquals(expResult, result, 0);
     }
-
 }
