@@ -29,7 +29,6 @@ public class Triangulo {
     public void setBase(double base) {
         this.base = base;
     }
-//Operacao que precisa ser testada
 
     public double getArea() {
         return ((getBase() * getAltura()) / 2.0);
